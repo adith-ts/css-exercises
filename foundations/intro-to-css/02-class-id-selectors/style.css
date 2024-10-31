@@ -1,0 +1,21 @@
+.odd {
+	background-color: rgb(255, 167, 167);
+	font-family: verdana, "Dejavu Sans", sans-serif;
+
+}
+
+.cool {
+	font-size: 24px;
+}
+
+#unq {
+	color: blue;
+	font-size: 36px;
+}
+
+#unq2 {
+	background-color: hsl(120, 100%, 75%);
+	font-size: 24px;
+	font-weight: bold;
+}
+
